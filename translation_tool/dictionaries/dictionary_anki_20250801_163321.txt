@@ -1,0 +1,35 @@
+hello /həˈloʊ/	翻译: 你好<br><br>释义: n. 问候语；int. 喂<br>词性: interjection<br><br>例句: Hello, how are you? 你好，你好吗？	dictionary
+good /ɡʊd/	翻译: 好的<br><br>释义: adj. 好的，良好的<br>词性: adjective<br><br>例句: This is a good idea. 这是个好主意。	dictionary
+see /siː/	翻译: 看见<br><br>释义: v. 看见<br>词性: verb<br><br>例句: I can see you. 我能看见你。	dictionary
+know /noʊ/	翻译: 知道<br><br>释义: v. 知道，了解<br>词性: verb<br><br>例句: I know you. 我认识你。	dictionary
+look /lʊk/	翻译: 看<br><br>释义: v. 看；n. 外观<br>词性: verb<br><br>例句: Look at me. 看着我。	dictionary
+time /taɪm/	翻译: 时间<br><br>释义: n. 时间；v. 计时<br>词性: noun<br><br>例句: What time is it? 现在几点？	dictionary
+think /θɪŋk/	翻译: 思考<br><br>释义: v. 思考，认为<br>词性: verb<br><br>例句: I think it's good. 我认为这很好。	dictionary
+work /wɜːrk/	翻译: 工作<br><br>释义: n. 工作；v. 工作<br>词性: noun<br><br>例句: I work in an office. 我在办公室工作。	dictionary
+home /hoʊm/	翻译: 家<br><br>释义: n. 家，住所；adv. 在家<br>词性: noun<br><br>例句: I'm going home. 我要回家了。	dictionary
+want /wɑːnt/	翻译: 想要<br><br>释义: v. 想要，需要<br>词性: verb<br><br>例句: I want to eat. 我想吃东西。	dictionary
+world /wɜːrld/	翻译: 世界<br><br>释义: n. 世界，地球；领域<br>词性: noun<br><br>例句: The world is beautiful. 世界很美丽。	dictionary
+need /niːd/	翻译: 需要<br><br>释义: v. 需要；n. 需要<br>词性: verb<br><br>例句: I need help. 我需要帮助。	dictionary
+school /skuːl/	翻译: 学校<br><br>释义: n. 学校<br>词性: noun<br><br>例句: I go to school every day. 我每天上学。	dictionary
+like /laɪk/	翻译: 喜欢<br><br>释义: v. 喜欢；prep. 像<br>词性: verb<br><br>例句: I like music. 我喜欢音乐。	dictionary
+friend /frend/	翻译: 朋友<br><br>释义: n. 朋友<br>词性: noun<br><br>例句: He is my best friend. 他是我最好的朋友。	dictionary
+help /help/	翻译: 帮助<br><br>释义: v. 帮助；n. 帮助<br>词性: verb<br><br>例句: Can you help me? 你能帮助我吗？	dictionary
+love /lʌv/	翻译: 爱<br><br>释义: n. 爱；v. 爱<br>词性: noun<br><br>例句: I love you. 我爱你。	dictionary
+study /ˈstʌdi/	翻译: 学习<br><br>释义: v. 学习，研究；n. 学习<br>词性: verb<br><br>例句: I study English every day. 我每天学习英语。	dictionary
+water /ˈwɔːtər/	翻译: 水<br><br>释义: n. 水<br>词性: noun<br><br>例句: I drink water every day. 我每天喝水。	dictionary
+food /fuːd/	翻译: 食物<br><br>释义: n. 食物<br>词性: noun<br><br>例句: This food is delicious. 这食物很美味。	dictionary
+eat /iːt/	翻译: 吃<br><br>释义: v. 吃<br>词性: verb<br><br>例句: I eat breakfast at 7 AM. 我7点吃早餐。	dictionary
+learn /lɜːrn/	翻译: 学会<br><br>释义: v. 学习，学会<br>词性: verb<br><br>例句: I want to learn Chinese. 我想学中文。	dictionary
+drink /drɪŋk/	翻译: 喝<br><br>释义: v. 喝；n. 饮料<br>词性: verb<br><br>例句: I drink coffee. 我喝咖啡。	dictionary
+sleep /sliːp/	翻译: 睡觉<br><br>释义: v. 睡觉；n. 睡眠<br>词性: verb<br><br>例句: I sleep 8 hours a day. 我每天睡8小时。	dictionary
+book /bʊk/	翻译: 书<br><br>释义: n. 书，书籍；v. 预订<br>词性: noun<br><br>例句: This is a good book. 这是一本好书。	dictionary
+walk /wɔːk/	翻译: 走路<br><br>释义: v. 走路；n. 步行<br>词性: verb<br><br>例句: I walk to school. 我走路上学。	dictionary
+run /rʌn/	翻译: 跑<br><br>释义: v. 跑，运行<br>词性: verb<br><br>例句: I run every morning. 我每天早上跑步。	dictionary
+read /riːd/	翻译: 读<br><br>释义: v. 读，阅读<br>词性: verb<br><br>例句: I read books. 我读书。	dictionary
+write /raɪt/	翻译: 写<br><br>释义: v. 写<br>词性: verb<br><br>例句: I write letters. 我写信。	dictionary
+speak /spiːk/	翻译: 说话<br><br>释义: v. 说话，讲<br>词性: verb<br><br>例句: I speak English. 我说英语。	dictionary
+computer /kəmˈpjuːtər/	翻译: 计算机<br><br>释义: n. 计算机，电脑<br>词性: noun<br><br>例句: I use a computer every day. 我每天使用电脑。	dictionary
+listen /ˈlɪsən/	翻译: 听<br><br>释义: v. 听<br>词性: verb<br><br>例句: I listen to music. 我听音乐。	dictionary
+watch /wɑːtʃ/	翻译: 观看<br><br>释义: v. 观看；n. 手表<br>词性: verb<br><br>例句: I watch TV. 我看电视。	dictionary
+language /ˈlæŋɡwɪdʒ/	翻译: 语言<br><br>释义: n. 语言<br>词性: noun<br><br>例句: English is a global language. 英语是全球语言。	dictionary
+translate /trænsˈleɪt/	翻译: 翻译<br><br>释义: v. 翻译<br>词性: verb<br><br>例句: Can you translate this sentence? 你能翻译这个句子吗？	dictionary

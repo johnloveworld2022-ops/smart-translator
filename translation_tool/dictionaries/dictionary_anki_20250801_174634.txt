@@ -1,0 +1,70 @@
+hello /həˈloʊ/	翻译: 你好<br><br>释义: n. 问候语；int. 喂<br>词性: interjection<br><br>例句: Hello, how are you? 你好，你好吗？	dictionary
+go /ɡoʊ/	翻译: 去<br><br>释义: v. 去，走<br>词性: verb<br><br>例句: I go to school. 我去学校。	dictionary
+good /ɡʊd/	翻译: 好的<br><br>释义: adj. 好的，良好的<br>词性: adjective<br><br>例句: This is a good idea. 这是个好主意。	dictionary
+one /wʌn/	翻译: 一<br><br>释义: num. 一；pron. 一个<br>词性: number<br><br>例句: I have one book. 我有一本书。	dictionary
+see /siː/	翻译: 看见<br><br>释义: v. 看见<br>词性: verb<br><br>例句: I can see you. 我能看见你。	dictionary
+come /kʌm/	翻译: 来<br><br>释义: v. 来<br>词性: verb<br><br>例句: Come here. 过来。	dictionary
+know /noʊ/	翻译: 知道<br><br>释义: v. 知道，了解<br>词性: verb<br><br>例句: I know you. 我认识你。	dictionary
+look /lʊk/	翻译: 看<br><br>释义: v. 看；n. 外观<br>词性: verb<br><br>例句: Look at me. 看着我。	dictionary
+time /taɪm/	翻译: 时间<br><br>释义: n. 时间；v. 计时<br>词性: noun<br><br>例句: What time is it? 现在几点？	dictionary
+two /tuː/	翻译: 二<br><br>释义: num. 二，两个<br>词性: number<br><br>例句: I have two cats. 我有两只猫。	dictionary
+get /ɡet/	翻译: 得到<br><br>释义: v. 得到，获得<br>词性: verb<br><br>例句: I get a gift. 我得到一个礼物。	dictionary
+think /θɪŋk/	翻译: 思考<br><br>释义: v. 思考，认为<br>词性: verb<br><br>例句: I think it's good. 我认为这很好。	dictionary
+three /θriː/	翻译: 三<br><br>释义: num. 三，三个<br>词性: number<br><br>例句: Three apples. 三个苹果。	dictionary
+work /wɜːrk/	翻译: 工作<br><br>释义: n. 工作；v. 工作<br>词性: noun<br><br>例句: I work in an office. 我在办公室工作。	dictionary
+home /hoʊm/	翻译: 家<br><br>释义: n. 家，住所；adv. 在家<br>词性: noun<br><br>例句: I'm going home. 我要回家了。	dictionary
+make /meɪk/	翻译: 制作<br><br>释义: v. 制作，做<br>词性: verb<br><br>例句: I make dinner. 我做晚饭。	dictionary
+family /ˈfæməli/	翻译: 家庭<br><br>释义: n. 家庭，家族<br>词性: noun<br><br>例句: I love my family. 我爱我的家庭。	dictionary
+take /teɪk/	翻译: 拿<br><br>释义: v. 拿，取<br>词性: verb<br><br>例句: Take this book. 拿这本书。	dictionary
+want /wɑːnt/	翻译: 想要<br><br>释义: v. 想要，需要<br>词性: verb<br><br>例句: I want to eat. 我想吃东西。	dictionary
+world /wɜːrld/	翻译: 世界<br><br>释义: n. 世界，地球；领域<br>词性: noun<br><br>例句: The world is beautiful. 世界很美丽。	dictionary
+need /niːd/	翻译: 需要<br><br>释义: v. 需要；n. 需要<br>词性: verb<br><br>例句: I need help. 我需要帮助。	dictionary
+school /skuːl/	翻译: 学校<br><br>释义: n. 学校<br>词性: noun<br><br>例句: I go to school every day. 我每天上学。	dictionary
+like /laɪk/	翻译: 喜欢<br><br>释义: v. 喜欢；prep. 像<br>词性: verb<br><br>例句: I like music. 我喜欢音乐。	dictionary
+friend /frend/	翻译: 朋友<br><br>释义: n. 朋友<br>词性: noun<br><br>例句: He is my best friend. 他是我最好的朋友。	dictionary
+help /help/	翻译: 帮助<br><br>释义: v. 帮助；n. 帮助<br>词性: verb<br><br>例句: Can you help me? 你能帮助我吗？	dictionary
+mother /ˈmʌðər/	翻译: 母亲<br><br>释义: n. 母亲，妈妈<br>词性: noun<br><br>例句: My mother is kind. 我妈妈很善良。	dictionary
+father /ˈfɑːðər/	翻译: 父亲<br><br>释义: n. 父亲，爸爸<br>词性: noun<br><br>例句: My father works hard. 我爸爸工作很努力。	dictionary
+love /lʌv/	翻译: 爱<br><br>释义: n. 爱；v. 爱<br>词性: noun<br><br>例句: I love you. 我爱你。	dictionary
+child /tʃaɪld/	翻译: 孩子<br><br>释义: n. 孩子，儿童<br>词性: noun<br><br>例句: The child is playing. 孩子在玩耍。	dictionary
+study /ˈstʌdi/	翻译: 学习<br><br>释义: v. 学习，研究；n. 学习<br>词性: verb<br><br>例句: I study English every day. 我每天学习英语。	dictionary
+water /ˈwɔːtər/	翻译: 水<br><br>释义: n. 水<br>词性: noun<br><br>例句: I drink water every day. 我每天喝水。	dictionary
+car /kɑːr/	翻译: 汽车<br><br>释义: n. 汽车<br>词性: noun<br><br>例句: I drive a car. 我开车。	dictionary
+food /fuːd/	翻译: 食物<br><br>释义: n. 食物<br>词性: noun<br><br>例句: This food is delicious. 这食物很美味。	dictionary
+eat /iːt/	翻译: 吃<br><br>释义: v. 吃<br>词性: verb<br><br>例句: I eat breakfast at 7 AM. 我7点吃早餐。	dictionary
+head /hed/	翻译: 头<br><br>释义: n. 头，头部<br>词性: noun<br><br>例句: My head hurts. 我头疼。	dictionary
+learn /lɜːrn/	翻译: 学会<br><br>释义: v. 学习，学会<br>词性: verb<br><br>例句: I want to learn Chinese. 我想学中文。	dictionary
+drink /drɪŋk/	翻译: 喝<br><br>释义: v. 喝；n. 饮料<br>词性: verb<br><br>例句: I drink coffee. 我喝咖啡。	dictionary
+hand /hænd/	翻译: 手<br><br>释义: n. 手<br>词性: noun<br><br>例句: Wash your hands. 洗手。	dictionary
+eye /aɪ/	翻译: 眼睛<br><br>释义: n. 眼睛<br>词性: noun<br><br>例句: She has beautiful eyes. 她有美丽的眼睛。	dictionary
+sleep /sliːp/	翻译: 睡觉<br><br>释义: v. 睡觉；n. 睡眠<br>词性: verb<br><br>例句: I sleep 8 hours a day. 我每天睡8小时。	dictionary
+book /bʊk/	翻译: 书<br><br>释义: n. 书，书籍；v. 预订<br>词性: noun<br><br>例句: This is a good book. 这是一本好书。	dictionary
+brother /ˈbrʌðər/	翻译: 兄弟<br><br>释义: n. 兄弟<br>词性: noun<br><br>例句: He is my brother. 他是我的兄弟。	dictionary
+walk /wɔːk/	翻译: 走路<br><br>释义: v. 走路；n. 步行<br>词性: verb<br><br>例句: I walk to school. 我走路上学。	dictionary
+run /rʌn/	翻译: 跑<br><br>释义: v. 跑，运行<br>词性: verb<br><br>例句: I run every morning. 我每天早上跑步。	dictionary
+sister /ˈsɪstər/	翻译: 姐妹<br><br>释义: n. 姐妹<br>词性: noun<br><br>例句: She is my sister. 她是我的姐妹。	dictionary
+happy /ˈhæpi/	翻译: 快乐<br><br>释义: adj. 快乐的，高兴的<br>词性: adjective<br><br>例句: I am happy today. 我今天很快乐。	dictionary
+read /riːd/	翻译: 读<br><br>释义: v. 读，阅读<br>词性: verb<br><br>例句: I read books. 我读书。	dictionary
+sun /sʌn/	翻译: 太阳<br><br>释义: n. 太阳<br>词性: noun<br><br>例句: The sun is bright. 太阳很亮。	dictionary
+write /raɪt/	翻译: 写<br><br>释义: v. 写<br>词性: verb<br><br>例句: I write letters. 我写信。	dictionary
+speak /spiːk/	翻译: 说话<br><br>释义: v. 说话，讲<br>词性: verb<br><br>例句: I speak English. 我说英语。	dictionary
+computer /kəmˈpjuːtər/	翻译: 计算机<br><br>释义: n. 计算机，电脑<br>词性: noun<br><br>例句: I use a computer every day. 我每天使用电脑。	dictionary
+listen /ˈlɪsən/	翻译: 听<br><br>释义: v. 听<br>词性: verb<br><br>例句: I listen to music. 我听音乐。	dictionary
+red /red/	翻译: 红色<br><br>释义: adj. 红色的；n. 红色<br>词性: adjective<br><br>例句: I like red roses. 我喜欢红玫瑰。	dictionary
+blue /bluː/	翻译: 蓝色<br><br>释义: adj. 蓝色的；n. 蓝色<br>词性: adjective<br><br>例句: The sky is blue. 天空是蓝色的。	dictionary
+watch /wɑːtʃ/	翻译: 观看<br><br>释义: v. 观看；n. 手表<br>词性: verb<br><br>例句: I watch TV. 我看电视。	dictionary
+green /ɡriːn/	翻译: 绿色<br><br>释义: adj. 绿色的；n. 绿色<br>词性: adjective<br><br>例句: Trees are green. 树是绿色的。	dictionary
+white /waɪt/	翻译: 白色<br><br>释义: adj. 白色的；n. 白色<br>词性: adjective<br><br>例句: Snow is white. 雪是白色的。	dictionary
+black /blæk/	翻译: 黑色<br><br>释义: adj. 黑色的；n. 黑色<br>词性: adjective<br><br>例句: The cat is black. 猫是黑色的。	dictionary
+language /ˈlæŋɡwɪdʒ/	翻译: 语言<br><br>释义: n. 语言<br>词性: noun<br><br>例句: English is a global language. 英语是全球语言。	dictionary
+moon /muːn/	翻译: 月亮<br><br>释义: n. 月亮<br>词性: noun<br><br>例句: The moon is full. 月亮是圆的。	dictionary
+star /stɑːr/	翻译: 星星<br><br>释义: n. 星星<br>词性: noun<br><br>例句: Stars shine at night. 星星在夜晚闪耀。	dictionary
+rain /reɪn/	翻译: 雨<br><br>释义: n. 雨；v. 下雨<br>词性: noun<br><br>例句: It's raining today. 今天下雨。	dictionary
+cat /kæt/	翻译: 猫<br><br>释义: n. 猫<br>词性: noun<br><br>例句: I have a cat. 我有一只猫。	dictionary
+dog /dɔːɡ/	翻译: 狗<br><br>释义: n. 狗<br>词性: noun<br><br>例句: The dog is friendly. 狗很友好。	dictionary
+bird /bɜːrd/	翻译: 鸟<br><br>释义: n. 鸟<br>词性: noun<br><br>例句: Birds can fly. 鸟会飞。	dictionary
+bus /bʌs/	翻译: 公交车<br><br>释义: n. 公交车<br>词性: noun<br><br>例句: I take the bus to work. 我坐公交车上班。	dictionary
+train /treɪn/	翻译: 火车<br><br>释义: n. 火车；v. 训练<br>词性: noun<br><br>例句: The train is fast. 火车很快。	dictionary
+sad /sæd/	翻译: 悲伤<br><br>释义: adj. 悲伤的<br>词性: adjective<br><br>例句: Don't be sad. 不要悲伤。	dictionary
+angry /ˈæŋɡri/	翻译: 生气<br><br>释义: adj. 生气的，愤怒的<br>词性: adjective<br><br>例句: He is angry. 他很生气。	dictionary
+translate /trænsˈleɪt/	翻译: 翻译<br><br>释义: v. 翻译<br>词性: verb<br><br>例句: Can you translate this sentence? 你能翻译这个句子吗？	dictionary
